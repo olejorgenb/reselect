@@ -600,7 +600,7 @@ Otherwise, selectors created using `createSelector` only have a cache size of on
 
 ### Q: Are there TypeScript Typings?
 
-A: Yes! Reselect is now written in TS itself, so they should Just Work™.
+A: Yes! Reselect is now written in TS itself, so they should Just Work™. (without strict checks turned on your milage might vary)
 
 ### Q: I am seeing a TypeScript error: `Type instantiation is excessively deep and possibly infinite`
 
